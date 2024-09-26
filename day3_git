@@ -1,0 +1,11 @@
+git switch -c (branch name)
+
+git add = Adding
+
+git commit = Commiting
+
+git branch = Check we are currently in which branch
+
+git checkout master = switch to master branch
+
+git merge (branch name) = 
